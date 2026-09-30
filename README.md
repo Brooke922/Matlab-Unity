@@ -3,7 +3,7 @@
 
 A low-latency, multithreaded inter-process communication (IPC) pipeline connecting MATLAB to Unity for high-frequency 6-DOF spatial motion control. Designed for neuromotor research, VR feedback, and kinematic perturbation experiments.
 
-## 🏁 Quick Setup & Run Instructions
+## Quick Setup & Run Instructions
 
 ### Prerequisites & Versions
 - **Unity Version:** Unity 2022.3 LTS *(or insert your exact version here, e.g., Unity 6 / 2021.3)*
