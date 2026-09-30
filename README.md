@@ -6,8 +6,8 @@ A low-latency, multithreaded inter-process communication (IPC) pipeline connecti
 ## Quick Setup & Run Instructions
 
 ### Prerequisites & Versions
-- **Unity Version:** Unity 2022.3 LTS *(or insert your exact version here, e.g., Unity 6 / 2021.3)*
-- **MATLAB Version:** MATLAB R2023b *(or insert your exact version here, e.g., R2022b / R2024a)*
+- **Unity Version:** Unity 6 (6000.0.3f1)  
+- **MATLAB Version:** MATLAB R2025a
 - **Dependencies:** Standard Unity Engine, MATLAB Instrument Control Toolbox / Basic TCP Sockets.
 
 ---
