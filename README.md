@@ -57,6 +57,6 @@ A low-latency, multithreaded inter-process communication (IPC) pipeline connecti
 │   └── DrawAxes.cs           # Physical 3D RGB origin coordinate marker generator
 ├── .gitignore
 ├── README.md
-└── .demo recording.mp4   # 30-second side-by-side execution screen capture (Link https://github.com/Brooke922/Matlab-Unity/blob/main/demo%20recording.mp4)
+└── demo recording.mp4   # 30-second side-by-side execution screen capture (Link https://github.com/Brooke922/Matlab-Unity/blob/main/demo%20recording.mp4)
 
 
