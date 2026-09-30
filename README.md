@@ -52,7 +52,7 @@ A low-latency, multithreaded inter-process communication (IPC) pipeline connecti
 ├── Matlab/
 │   ├── movecube.m       # Reusable 6-DOF command sender function
 │   └── demo_cube.m      # 100 Hz continuous trajectory test script
-├── UnityAssets/
+├── Unity Assets/
 │   ├── MatlabTcpReceiver.cs  # Main multithreaded TCP receiver & benchmark logger
 │   └── DrawAxes.cs           # Physical 3D RGB origin coordinate marker generator
 ├── .gitignore
