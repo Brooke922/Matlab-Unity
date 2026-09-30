@@ -1,4 +1,3 @@
-# Matlab-Unity
 # Real-Time MATLAB-to-Unity 6-DOF TCP/IP Kinematic Bridge
 
 A low-latency, multithreaded inter-process communication (IPC) pipeline connecting MATLAB to Unity for high-frequency 6-DOF spatial motion control. Designed for neuromotor research, VR feedback, and kinematic perturbation experiments.
